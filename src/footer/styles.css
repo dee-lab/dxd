@@ -1,0 +1,6 @@
+.Footer {
+    width: 100vw;
+    background-color: grey;
+    padding: 10px;
+    flex-shrink: 0;
+}

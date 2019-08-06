@@ -1,0 +1,8 @@
+.Header {
+    width: 100vw;
+    background-color: lightpink;
+    padding: 10px; 
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;   
+}
