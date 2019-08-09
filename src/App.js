@@ -1,12 +1,12 @@
 import React from 'react';
-import Content from './content';
+import Main from './main';
 import Footer from './footer';
 
 function App() {
   return (
     <div>
       {/* <Header/> */}
-      <Content/>
+      <Main/>
       <Footer/>
     </div>
   );
